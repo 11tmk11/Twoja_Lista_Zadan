@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649245416729",
+    "project_id": "twojalistazadan",
+    "storage_bucket": "twojalistazadan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649245416729:android:a273d90cfdee8f77fff988",
+        "android_client_info": {
+          "package_name": "com.example.twojalistazadan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649245416729-7vhbqqbhjumhrd1qf6ope9hv8cdf9e6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQS49O2E8QcBcFhMZQ8jnpngw29BsjWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649245416729-7vhbqqbhjumhrd1qf6ope9hv8cdf9e6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
