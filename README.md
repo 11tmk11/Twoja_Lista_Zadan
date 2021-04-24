@@ -29,8 +29,23 @@ Projekt wykonany na zaliczenie przedmiotu w ramach zajęć z Androida.
 ## Setup
 Wymagana wersja do uruchomienia aplikacji to Android 9.0 PIE
 
+## Code Examples
+Przykłady użycia :
+`<TextView/>`
+`<EditText/>`
+`<Button/>`
+`<ScrollView/>`
+`<LinearLayout/>`
+`<RelativeLayout/>`
+`private FirebaseAuth mDatabase`
+`private DatabaseReference mAuth`
+
+
 ## Status
 Project is: _finished_
 
 ## Inspiration
 Project inspired by [Google Keep](https://keep.google.com/)
+
+## Contact
+Created by [@flynerdpl](https://www.flynerd.pl/)
