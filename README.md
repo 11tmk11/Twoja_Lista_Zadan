@@ -24,6 +24,7 @@ Projekt wykonany na zaliczenie przedmiotu w ramach zajęć z Androida. Możliwo�
 * Android Studio
 * Firebase Authentication
 * Firebase Realtime Database
+* JAVA
 
 ## Setup
 Wymagana wersja do uruchomienia aplikacji to Android 9.0 PIE
