@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-Projekt wykonany na zaliczenie przedmiotu w ramach zajęć z Androida. Możliwość zakładania konta i logowania się za pomocą niego dzięki Firebase Authentication. Każda konto ma osobny dziennik z możliwością dodawania notatek, zmieniania ich treści oraz kasowania dzięki użyciu Firebase Database.
+Projekt wykonany na zaliczenie przedmiotu w ramach zajęć z Androida. Możliwość zakładania indywidualnego konta (email i hasło) oraz logowania się za pomocą niego dzięki Firebase Authentication. Każda konto ma osobny dziennik z możliwością dodawania notatek, zmieniania ich treści oraz kasowania dzięki użyciu Firebase Database.
 
 ## Screenshots
 ![Firebase nr1](./Przechwytywanie.JPG)
