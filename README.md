@@ -48,4 +48,4 @@ Project is: _finished_
 Project inspired by [Google Keep](https://keep.google.com/)
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/)
+Created by **Tomasz Kaszuba** oraz **Mateusz Czepirski**
