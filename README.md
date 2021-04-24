@@ -15,4 +15,22 @@
 Projekt wykonany na zaliczenie przedmiotu w ramach zajęć z Androida.
 
 ## Screenshots
-![Example screenshot](./Przechwytywanie.JPG)
+![Firebase nr1](./Przechwytywanie.JPG)
+![Firebase nr2](./Przechwytywanie1.JPG)
+![Android APPS nr1](./Przechwytywanie2.JPG)
+![Android APPS nr2](./Przechwytywanie4.JPG))
+![Android APPS nr3](./Przechwytywanie3.JPG)
+
+## Technologies
+* Android Studio
+* Firebase Authentication
+* Firebase Realtime Database
+
+## Setup
+Wymagana wersja do uruchomienia aplikacji to Android 9.0 PIE
+
+## Status
+Project is: _finished_
+
+## Inspiration
+Project inspired by [Google Keep](https://keep.google.com/)
